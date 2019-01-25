@@ -1,0 +1,16 @@
+﻿  WindMain.cpp
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(93): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(128): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(139): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(140): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(349): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(356): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(472): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(495): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+  c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(495): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(495): note: рекомендуется использовать "%I64d" в строке форматирования
+c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(505): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "unsigned __int64"
+  c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(505): note: рекомендуется использовать "%lld" в строке форматирования
+  c:\users\nubun\source\repos\game_bl_2\game_bl_2\windmain.cpp(505): note: рекомендуется использовать "%I64d" в строке форматирования
+  GAME_BL_2.vcxproj -> C:\Users\nubun\source\repos\GAME_BL_2\Debug\GAME_BL_2.exe
